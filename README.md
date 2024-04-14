@@ -6,8 +6,7 @@ O objetivo deste é permitir que um usuário responsável pela tarefa (agendamen
 ### Projeto consiste em um gerenciador de salas de reuniões com uma API Java e o front em Angular
 
 -    O Front End que irá consumir essa API será uma SPA escrita em Angular.      
-
-  ​            
+  ​        
 
 ### Lógica geral do sistema
 
@@ -25,7 +24,6 @@ Este sistema foi desenvolvido com duas tecnologias atuais, uma para o frontend (
 #### Pasta front-end --> front-SalaDeReuniao
 
 - O Front End que irá consumir essa API será uma SPA escrita em Angular.
-
   
 
 ## Server de Desenvolvimento
