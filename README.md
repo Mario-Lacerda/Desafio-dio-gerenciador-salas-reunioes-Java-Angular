@@ -7,7 +7,6 @@ O objetivo deste é permitir que um usuário responsável pela tarefa (agendamen
 
 -    O Front End que irá consumir essa API será uma SPA escrita em Angular.      
   ​        
-
 ### Lógica geral do sistema
 
 Ao inserir um novo agendamento, ele irá filtrar as salas disponiveis de acordo com a data, hora inicial e final da reunião, se a sala necessita ter computador, sistema para videoconferência, ou projetor, dados esses, especificados pelo solicitante da reunião. Desafio para desenvolver uma API com Spring Boot para gerenciar salas de reunião, com Backend em Java e Front End em Angular, onde podemos criar salas de reunião, listar as salas, e buscar, atualiza ou deletar uma sala pelo id.
