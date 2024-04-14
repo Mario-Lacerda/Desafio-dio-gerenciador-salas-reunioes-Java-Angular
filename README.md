@@ -22,8 +22,7 @@ Este sistema foi desenvolvido com duas tecnologias atuais, uma para o frontend (
 
 #### Pasta front-end --> front-SalaDeReuniao
 
-- O Front End que irá consumir essa API será uma SPA escrita em Angular.
-  
+- O Front End que irá consumir essa API será uma SPA escrita em Angular.  
 
 ## Server de Desenvolvimento
 
